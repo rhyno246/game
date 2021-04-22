@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b09efe8fa2e2fb2a0d13f105b9b8db8e.js"
+  "precache-manifest.723c6602e7c98f87a54a11cec4f81054.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "zueviewgame"});
